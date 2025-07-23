@@ -1,4 +1,4 @@
-# 🖋️ Dev Logs: Tactical Postmortems from the Codefront
+# 📜🖋️ Dev Logs: Tactical Postmortems from the Codefront
 
 Welcome to the war journal.
 
@@ -35,13 +35,13 @@ tags: [docker, fastify, backend, monorepo-conflict, port-war]
 ---
 
 Then comes the story: setup, pain, fix, and lessons. Written with honesty and a dash of sarcasm.
+```
 
 ## 🛡️ Why This Exists
 
 - So future-me doesn’t fight the same war twice.
 - So maybe you don’t have to either.
 - Because documentation doesn’t have to be boring.
-```
 
 ## ⚔️ Contributing
 
