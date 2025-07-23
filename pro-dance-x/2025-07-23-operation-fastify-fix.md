@@ -1,3 +1,8 @@
+---
+title: "Fastify Isolated"
+publishedAt: "2025-07-23"
+---
+
 ## Cold Comm Protocol Breach: Fastify Isolated
 
 🗓️ **Date**: July 23, 2025  

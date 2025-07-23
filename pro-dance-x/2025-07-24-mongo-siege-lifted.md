@@ -1,4 +1,9 @@
-## Operation: Fastify Extraction – Mongo Siege Lifted
+---
+title: "The Prisoner"
+publishedAt: "2025-07-24"
+---
+
+## Operation: Fastify Extraction – The Prisoner
 
 🗓️ **Date**: July 24, 2025  
 🧠 **Project**: Pro Dance Suite X  
@@ -6,7 +11,7 @@
 
 ---
 
-## Field Briefing: “Why’s It Always the Damn Containers?”
+## Docker Container - The Warden
 
 I thought the backend was behaving, and MongoDB was cooperating.
 They were not. Not even close.

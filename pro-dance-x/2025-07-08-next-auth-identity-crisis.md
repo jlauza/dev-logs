@@ -1,3 +1,8 @@
+---
+title: "Identity Crisis"
+publishedAt: "2025-07-08"
+---
+
 ## Next-Auth Identity Crisis
 
 🗓️ **Date Logged**: July 8, 2025  

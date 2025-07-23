@@ -1,3 +1,8 @@
+---
+title: "Fastify, The New Recruit"
+publishedAt: "2025-07-17"
+---
+
 ## Fastify, the New Recruit
 
 🗓️ **Date**: July 17, 2025  

@@ -1,3 +1,8 @@
+---
+title: "Fastify Silent Treatment"
+publishedAt: "2025-07-18"
+---
+
 ## Fastify's Silent Treatment
 
 🗓️ **Date**: July 18, 2025  
