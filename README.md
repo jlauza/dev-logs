@@ -1,4 +1,4 @@
-# 🪖 Dev Logs: Tactical Postmortems from the Codefront
+# 🖋️ Dev Logs: Tactical Postmortems from the Codefront
 
 Welcome to the war journal.
 
