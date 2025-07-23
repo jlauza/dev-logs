@@ -1,4 +1,4 @@
-## 🧊 Cold Comm Protocol Breach: Fastify Isolated
+## Cold Comm Protocol Breach: Fastify Isolated
 
 🗓️ **Date**: July 23, 2025  
 🧠 **Project**: Pro Dance Suite X  
@@ -45,11 +45,11 @@ Once HQ aligned the Fastify default post with Docker’s port mapping, the line 
 
 ## Outcome of Operation: BACKEND-HAIL
 
-- Fastify finally answered the call ✅
-- Mapped ports correctly, respecting chain of command ✅
-- No exposed internal ports — radio silence for enemy eyes ✅
-- Browser got its intel. Mission success. ✅
-- Lesson learned: Docker isn’t psychic, it’s literal. Bring your own map. ✅
+- Fastify finally answered the call
+- Mapped ports correctly, respecting chain of command
+- No exposed internal ports — radio silence for enemy eyes
+- Browser got its intel. Mission success.
+- Lesson learned: Docker isn’t psychic, it’s literal. Bring your own map.
 
 **Backend is operational.** No error signals. No success confirmation either.
 Too quiet. Suspiciously quiet.
