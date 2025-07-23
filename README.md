@@ -19,8 +19,8 @@ Each project has its own folder with logs named by date and operation.
 | Folder        | Description                                       |
 | ------------- | ------------------------------------------------- |
 | `pro-dance-x` | Full-stack monorepo (Next.js + Fastify + MongoDB) |
-| `steroidphp`  | Legacy PHP beast on performance-enhancing drugs   |
-| `dashme`      | A dashboard experiment turned full-blown warzone  |
+| `steroidphp`  | Legacy PHP beast injected with async drugs        |
+| `dashme`      | An experiment turned into full-blown npm package  |
 
 ## 📜 Format
 
