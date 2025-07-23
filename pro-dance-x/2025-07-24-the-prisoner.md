@@ -42,7 +42,7 @@ MongoDB? No reply. Port 27017? Dead air.
 **Problem 2:**
 
 - MongoDB and Fastify is alive but, there's but
-- Backed is only alive inside conatiner not locally
+- Backed is only alive inside container not locally
 - Backend is a prisoner guarded by jail warden Docker
 
 **Fix:**
